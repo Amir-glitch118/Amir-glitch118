@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**Amir-glitch118/Amir-glitch118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Amir
+Biomedical Engineering Student | AI Enthusiast
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 About Me
+
+🎓 Biomedical Engineering
+🤖 AI & Machine Learning
+🔬 Medical Imaging
+🫀 Biomedical Signal Processing
+
+━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+🫀 ECG Analysis
+🧠 Medical Image Classification
+📊 Biomedical Data Analysis
+🤖 ML Projects
+
+━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+
+Python | NumPy | Pandas | Matplotlib
+Scikit-learn | PyTorch | Git | Arduino
+
+━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Statistics
+
+[Stats] [Languages]
+
+━━━━━━━━━━━━━━━━━━━━
+
+📫 Connect With Me
+
+LinkedIn | Email
